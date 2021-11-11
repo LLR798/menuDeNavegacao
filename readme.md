@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <img alt="Formulario" src="https://github.com/LLR798/menuDeNvavegacao/blob/master/img/preview.png?raw=true" width="100%">
+  <img alt="Formulario" src="https://github.com/LLR798/menuDeNavegacao/blob/master/img/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
